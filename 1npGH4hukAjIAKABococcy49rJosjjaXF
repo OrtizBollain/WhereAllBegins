@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Html_página_gatos</title>
+    <link rel="stylesheet" href="ej8_.css">
+</head>
+<body>
+    <header>
+        <h1>
+            GATOS
+        </h1>
+    </header>
+    <footer>
+            Los gatos son unos felinos adorables. Esas orejitas atentas a todo lo que pasa a su alrededor, esos preciosos y dulces ojos con los que te miran, y esos gestos tan suyos, tan gatunos. El Felis catus se ha convertido en uno de los animales domésticos más populares, junto con el perro, sólo que no terminan de estar domesticados, no del todo al menos. Probablemente por eso sean magníficos, porque hacen lo que quieren y cuando así lo desean.
+    </footer>
+    <section>
+        <div style="text-align: center">
+        <video width="25%" height="25%" src="cat_playing.mp4" controls></video>
+        <video width="25%" height="25%" src="funny_cat.mp4" controls></video>
+        <video width="25%" height="25%" src="lazy_cat.mp4" controls></video>
+        <video width="75%" height="75%" src="giphy_cat.mp4" autoplay></video> 
+    </section>
+
+</body>
+</html>
